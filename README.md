@@ -1,6 +1,6 @@
 # Digital Signal Processing (DSP) Final Project
 
-This repository contains the final project for the Digital Signal Processing course at the Sharif University of Technology, under the instruction of Dr. M.T. Manzuri. The project encompasses seven distinct questions, each exploring fundamental concepts and applications in DSP.
+This repository contains the final project for the Digital Signal Processing course at the [Sharif University of Technology](https://en.sharif.ir/), under the instruction of [Dr. M.T. Manzuri](https://scholar.google.com/citations?user=NXYyxTMAAAAJ&hl=en). The project encompasses seven distinct questions, each exploring fundamental concepts and applications in DSP.
 
 The complete project description can be found in the PDF file located in the [Question](./Question) directory.
 
